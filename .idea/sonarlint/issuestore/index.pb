@@ -17,3 +17,5 @@
 day-16/main.py,9\c\9c62187f5127c0ce775eabe459a4bfa400fe45fa
 >
 day-17/main.py,4\f\4f892255047e6a9030944b5784a138f1443d871c
+>
+day-18/main.py,e\f\ef3766fb162b0322d84f692d4b3250bddd68eb31
