@@ -19,3 +19,9 @@
 day-17/main.py,4\f\4f892255047e6a9030944b5784a138f1443d871c
 >
 day-18/main.py,e\f\ef3766fb162b0322d84f692d4b3250bddd68eb31
+>
+day-19/main.py,f\1\f1c1426025e0624e6d1b0868174a16aad934bf10
+?
+day-20/snake.py,7\8\781fca6d4be27bbc07d7b3befa19fc459abecf01
+>
+day-20/main.py,f\e\feb29a1cae786e324b2bba46c73a08d5dab6b1ec
