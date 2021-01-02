@@ -25,3 +25,13 @@
 day-20/snake.py,7\8\781fca6d4be27bbc07d7b3befa19fc459abecf01
 >
 day-20/main.py,f\e\feb29a1cae786e324b2bba46c73a08d5dab6b1ec
+>
+day-20/food.py,6\e\6e5c50f64e74d2f20c44af38830304b5e6fd6c1f
+D
+day-20/scoreboard.py,8\a\8a36ae6386ae8e9a72d182de9229fa684553fd98
+@
+day-21/paddle.py,9\2\924d629057d5dcacea08bee546d8b5613eb3c266
+>
+day-21/ball.py,e\7\e702d02a7cd7c5e4f8da807b6ca885dec1e5e53d
+>
+day-21/main.py,c\8\c8377c15cb64e265830ea9414704d8fa1ee605c3
