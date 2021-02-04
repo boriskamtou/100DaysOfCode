@@ -59,3 +59,11 @@ H
 day-24/challenge/main.py,2\5\25ae8e398dd9ace9f6a224f550031cd98116f93b
 >
 day-25/main.py,3\4\3449725ff4982b042e7d81c10a6e5abf1b0e4751
+M
+day-25/us-states-game/main.py,d\e\de27b65325226c0d0433b5d0f89a3e19f49b27bd
+Q
+!day-26/nato_phonetic_alphabet.csv,d\0\d0cbead461c0bdce042b3547c1f4d291b985836a
+>
+day-26/main.py,8\8\88feaceb4cc09920f03606790164252f0c761e13
+>
+day-27/main.py,e\1\e19ec492befeb2802944c142c92f7052ac3ccc40
