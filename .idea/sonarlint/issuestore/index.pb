@@ -69,3 +69,23 @@ Q
 day-27/main.py,e\1\e19ec492befeb2802944c142c92f7052ac3ccc40
 >
 day-28/main.py,9\6\9605784126dfd662f419de4db9d9e1431365b42d
+B
+day-30/my_file.txt,6\5\65b6a2740c7d0204f97a5a2d149788d32ab8a2c5
+>
+day-30/main.py,c\d\cd8d6e0f6c6ea38df7999d410a6a8059e7d56476
+S
+#day-30/NATO-alphabet/pyproject.toml,b\2\b2b8f1d26d772ef7d73beaa9a91fb00d4ffca555
+P
+ day-30/NATO-alphabet/poetry.lock,f\3\f37443191a96a70222ddeddb213922ebb4d7b1fa
+_
+/day-30/NATO-alphabet/nato_phonetic_alphabet.csv,5\5\556b8df622330de308ce11ed9fc99c58b7972b6a
+L
+day-30/NATO-alphabet/main.py,c\0\c02b5f049c44307d33d58d9d5058cc704ff538ae
+S
+#day-29-Password-Generator/data.json,5\1\513fb3746e5b5b4c93e1dd16ec906ecd54e11605
+Q
+!day-29-Password-Generator/main.py,2\9\29d67386cf37fcc482f6dd865fa6eb2407de0da0
+>
+day-33/main.py,a\8\a86e54d587ad338cf0741d9f6804821c8ade277f
+J
+day-33/kayne-quote/main.py,7\a\7a566fab954e7d93e529a35c2f784f4640466423
