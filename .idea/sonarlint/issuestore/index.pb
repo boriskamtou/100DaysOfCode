@@ -95,3 +95,21 @@ W
 'day-33-api-endpoint/issoverhead/main.py,7\1\71316808d9a884cd0ae58cb8e1901886978c931b
 I
 day-32-send-email/main.py,d\4\d40bd3f017aecf3b9262f776b285e01cf95e17be
+_
+/day-32-send-email/letter_templates/letter_3.txt,0\7\0744986a990a762e6b558b5d5ca577a4b2a33f17
+_
+/day-32-send-email/letter_templates/letter_2.txt,6\a\6a5d4c939cf9b787763375e09d02bb128c34b856
+O
+day-32-send-email/birthdays.csv,9\2\92ac3faf2fb25f444f99975ef04b0cc291509c4f
+_
+/day-32-send-email/letter_templates/letter_1.txt,6\a\6ae669a37704ff5d2f5889c370743bae6fe1f5e8
+I
+day-34-GUI-Quiz-app/ui.py,1\5\152d59a6e56dcc04e089ecb8fcb54290b9499d37
+U
+%day-34-GUI-Quiz-app/question_model.py,e\5\e5ef909fbf312b61c06831b9994625f06885060c
+K
+day-34-GUI-Quiz-app/data.py,0\b\0b0292a6a5080f42b0be27272b4c59bbbe5d3aaf
+K
+day-34-GUI-Quiz-app/main.py,1\b\1b086ecd4a5b1ce8967fab3fed22b186d0db6304
+Q
+!day-34-GUI-Quiz-app/quiz_brain.py,3\e\3eec70ce1d1895c63b6fee358cf8875857a6d3c5
