@@ -29,10 +29,15 @@ day_before_yesterday_data = data_list[1]
 day_before_yesterday_closing_price = day_before_yesterday_data['4. close']
 print(day_before_yesterday_closing_price)
 
-difference = abs(float(yesterday_closing_price) - float(day_before_yesterday_closing_price))
+difference = float(yesterday_closing_price) - float(day_before_yesterday_closing_price)
+up_down = 'None'
+if difference > 0:
+    up_down = '🔺'
+else:
+    up_down = '🔻'
 print(difference)
 
-diff_difference = (difference / float(yesterday_closing_price)) * 100
+diff_difference = round((abs(difference) / float(yesterday_closing_price)) * 100)
 print(diff_difference)
 
 if diff_difference > 5:
@@ -43,7 +48,7 @@ if diff_difference > 5:
     response = requests.get(NEWS_ENDPOINT, params=news_api_params)
     articles = response.json()['articles']
     three_articles = articles[:3]
-    formatted_article = [f"Headline: {article['title']}. \nBrief: {article['description']}" for article in
+    formatted_article = [f"{COMPANY_NAME}: {up_down}{diff_difference}% \nHeadline: {article['title']}. \nBrief: {article['description']}" for article in
                          three_articles]
     client = Client(account_sid, auth_token)
     for article in formatted_article:
