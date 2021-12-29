@@ -115,3 +115,25 @@ Q
 !day-34-GUI-Quiz-app/quiz_brain.py,3\e\3eec70ce1d1895c63b6fee358cf8875857a6d3c5
 `
 0day-35-keys-authentication-env-variables/main.py,5\2\52bc8aab87f77ecc0f53749c540f3a7b745c6394
+W
+'day-36-stock-trading-news-alert/main.py,6\e\6e4bccbc5455c66c5dcd0e6631fa7ad0a20deac2
+L
+day-37-habit-tracker/main.py,2\4\24f4215a622ff230d90bfc6be28c49791bdfb3b0
+a
+1day-38-workout-tracing-using-google-sheet/main.py,c\a\caccda9183a0c10d6e068af06cf6613d64e5c545
+M
+day-41-website/css/styles.css,2\0\20ff22b12c4288362172432af25bc1365bb4a885
+K
+day-41-website/contact.html,f\a\fa06c2dd9981b2c6cbe2c122e7c904feffd6ae74
+I
+day-41-website/index.html,f\0\f08a52ce9180a2cea58f08740b7df6db7a69fa93
+K
+day-41-website/hobbies.html,1\b\1b886bada2a8b1e95939a4d80664af5b41ff6eea
+O
+day-44-portfolio/css/styles.css,8\7\8704fa6acec22d88e130640753358d8cda772484
+K
+day-44-portfolio/index.html,8\2\82ea969d4be9d6f7071fb37514b6ac6b86d5a446
+P
+ day-45-web-scraping/website.html,7\1\711d4266d2c61eccb62fc572b949bc7af540ae98
+K
+day-45-web-scraping/main.py,3\9\3927b4a890f3c2b8f7aa8388911cbb5f50b6881c
