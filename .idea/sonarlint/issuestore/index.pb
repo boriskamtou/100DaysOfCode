@@ -137,3 +137,11 @@ P
  day-45-web-scraping/website.html,7\1\711d4266d2c61eccb62fc572b949bc7af540ae98
 K
 day-45-web-scraping/main.py,3\9\3927b4a890f3c2b8f7aa8388911cbb5f50b6881c
+W
+'day-45-web-scraping/scrap-movie/main.py,6\d\6dbc61613c32854d034c7e164ded5b214bd80799
+O
+day-46-spotify-playlist/main.py,6\b\6b7e58cc43362d9c6263512284c169e7559c5ff7
+Q
+!day-46-spotify-playlist/token.txt,3\e\3e68f51dab36bbff28318fc4d531f54725126caf
+N
+day-46-spotify-playlist/.cache,5\a\5afbaf16f0a875eeab1fcf265ecb26ff976117e7
