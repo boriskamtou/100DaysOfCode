@@ -145,3 +145,5 @@ Q
 !day-46-spotify-playlist/token.txt,3\e\3e68f51dab36bbff28318fc4d531f54725126caf
 N
 day-46-spotify-playlist/.cache,5\a\5afbaf16f0a875eeab1fcf265ecb26ff976117e7
+S
+#day-47-amazon-prime-tracker/main.py,4\b\4b7afe446180aa7a92c6bf1e88775ac7d78e3a09

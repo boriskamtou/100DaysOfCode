@@ -23,9 +23,11 @@ price = float(price_without_currency)
 
 product_name = soup.find('span', class_='product-title-word-break').getText()
 
+my_email = 'boriskamtou@gmail.com'
+
 if 20 <= 30:
     with smtplib.SMTP('smtp.gmail.com') as connexion:
         connexion.starttls()
-        connexion.login(user='boriskamtou@gmail.com', password='Jesuskam@123@')
-        connexion.sendmail(msg=f'Subject: {product_name} is now {price}', from_addr='boriskamtou@gmail.com',
-                           to_addrs='boriskamtou@gmail.com')
+        connexion.login(user=my_email, password='')
+        connexion.sendmail(msg=f'Subject: {product_name} is now {price}', from_addr=my_email,
+                           to_addrs=my_email)
