@@ -147,3 +147,11 @@ N
 day-46-spotify-playlist/.cache,5\a\5afbaf16f0a875eeab1fcf265ecb26ff976117e7
 S
 #day-47-amazon-prime-tracker/main.py,4\b\4b7afe446180aa7a92c6bf1e88775ac7d78e3a09
+G
+day-48-selenium/main.py,c\b\cb1780741617f18c4dd33d76145ac791fd8e5203
+Q
+!day-48-selenium/challenge/main.py,2\4\24c24e51c4f7c8a0355b8d8488ae396fdb5889fa
+N
+day-48-selenium/interaction.py,2\b\2b6d84363545b2b4e21d6ad2a4df62158ca682e6
+X
+(day-48-selenium/game-playing-bot/main.py,b\d\bd02fbcd9c3ce58b62baf3f1b32bf65bb043573c
